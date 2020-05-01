@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZopperAndroidUtils</string>
+
+    <string name="txt_something_went_wrong">Something went wrong</string>
+    <string name="txt_looks_like_problem">Looks like there is a problem at our end, try again in sometime.</string>
+    <string name="txt_no_internet">No Internet Connection</string>
+    <string name="txt_no_internet_text">You need to have Mobile Data or WiFi to perform this action.</string>
+
+    <string name="btn_text_go_back">Go Back</string>
+    <string name="btn_text_ok">Okay</string>
+    <string name="btn_text_retry">Retry</string>
+</resources>

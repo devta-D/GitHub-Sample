@@ -1,0 +1,4 @@
+rootProject.name='GitHubSample'
+include ':app'
+include ':helper'
+include ':superrecyclerview'
